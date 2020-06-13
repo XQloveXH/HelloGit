@@ -1,3 +1,1 @@
-# HelloGit
-# Hello-VScode
 # test
